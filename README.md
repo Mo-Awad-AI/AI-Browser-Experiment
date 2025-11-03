@@ -11,7 +11,7 @@ This repo documents an experiment by **Mo Awad** comparing how next-gen AI brows
 ---
 
 ## 🎯 Purpose
-i ran this test to understand how AI browsers are reshaping **brand visibility, discovery, and authority** in the age of **Answer Engine Optimization (AEO)**.
+I ran this test to understand how AI browsers are reshaping **brand visibility, discovery, and authority** in the age of **Answer Engine Optimization (AEO)**.
 
 - **Shift in Search Behavior:** From query → conversation  
 - **Impact on Organic Reach:** New signals determine brand ranking  
