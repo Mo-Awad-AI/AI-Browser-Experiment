@@ -36,16 +36,17 @@ I ran this test to understand how AI browsers are reshaping **brand visibility, 
 ---
 
 ## 🚀 Next Steps
-We’ll expand this repo with:
+I’ll be expanding this repo with:
 - Future AEO tests using ChatGPT Atlas once Windows/iOS versions release  
 - Benchmarks for AI answer recall, citation density, and brand mentions  
-- Dashboards for tracking AI visibility across tools  
+- Dashboards for tracking AI visibility across tools
+- Anything else you folks think of! And thanks for the feedback and engagement so far. 
 
 ---
 
 ## 💬 Contact
 Created by [**Mo Awad**](mailto:mowadmarketer@gmail.com)  
-Connect on X / LinkedIn for future updates.  
+Feel free to connect with me on X! https://x.com/MoAwadMarketer 
 
 ---
 © 2025 Mo Awad — Made with 💡 and data.
